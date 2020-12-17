@@ -1,0 +1,7 @@
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day3\SampleJenkin\bin\Debug\SampleJenkin.exe.config
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day3\SampleJenkin\bin\Debug\SampleJenkin.exe
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day3\SampleJenkin\bin\Debug\SampleJenkin.pdb
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day3\SampleJenkin\obj\Debug\SampleJenkin.csprojAssemblyReference.cache
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day3\SampleJenkin\obj\Debug\SampleJenkin.csproj.CoreCompileInputs.cache
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day3\SampleJenkin\obj\Debug\SampleJenkin.exe
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day3\SampleJenkin\obj\Debug\SampleJenkin.pdb
